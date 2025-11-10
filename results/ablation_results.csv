@@ -1,0 +1,8 @@
+tag,final_loss,epoch_losses_path
+baseline,0.029055716164532255,results/loss_baseline.png
+no_pos,0.76998327941191,results/loss_no_pos.png
+no_res,4.780921513917016,results/loss_no_res.png
+no_ln,0.0689494196386611,results/loss_no_ln.png
+1head,0.03163094178880336,results/loss_1head.png
+small,1.0447716199960866,results/loss_small.png
+big,0.011037592297099287,results/loss_big.png
